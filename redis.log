@@ -1,0 +1,19 @@
+28374:C 11 Jan 2023 02:46:34.927 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+28374:C 11 Jan 2023 02:46:34.929 # Redis version=6.2.6, bits=64, commit=00000000, modified=0, pid=28374, just started
+28374:C 11 Jan 2023 02:46:34.929 # Configuration loaded
+28374:M 11 Jan 2023 02:46:34.932 * monotonic clock: POSIX clock_gettime
+28374:M 11 Jan 2023 02:46:34.933 # Warning: Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+28374:M 11 Jan 2023 02:46:34.933 # Failed listening on port 6379 (TCP), aborting.
+28400:C 11 Jan 2023 02:46:48.893 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+28400:C 11 Jan 2023 02:46:48.894 # Redis version=6.2.6, bits=64, commit=00000000, modified=0, pid=28400, just started
+28400:C 11 Jan 2023 02:46:48.894 # Configuration loaded
+28400:M 11 Jan 2023 02:46:48.898 * monotonic clock: POSIX clock_gettime
+28400:M 11 Jan 2023 02:46:48.899 # Warning: Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+28400:M 11 Jan 2023 02:46:48.899 # Failed listening on port 6379 (TCP), aborting.
+32994:C 11 Jan 2023 11:55:55.416 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+32994:C 11 Jan 2023 11:55:55.417 # Redis version=6.2.6, bits=64, commit=00000000, modified=0, pid=32994, just started
+32994:C 11 Jan 2023 11:55:55.417 # Configuration loaded
+32994:M 11 Jan 2023 11:55:55.419 * Increased maximum number of open files to 10032 (it was originally set to 256).
+32994:M 11 Jan 2023 11:55:55.419 * monotonic clock: POSIX clock_gettime
+32994:M 11 Jan 2023 11:55:55.420 # Warning: Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+32994:M 11 Jan 2023 11:55:55.420 # Failed listening on port 6379 (TCP), aborting.
